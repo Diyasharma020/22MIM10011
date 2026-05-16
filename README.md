@@ -59,8 +59,11 @@ export default defineConfig([
         project: ['./tsconfig.node.json', './tsconfig.app.json'],
         tsconfigRootDir: import.meta.dirname,
       },
-      // other options...
     },
   },
 ])
 ```
+<img width="1825" height="845" alt="Screenshot 2026-05-16 160710" src="https://github.com/user-attachments/assets/470c16cb-897a-4d37-ba0b-adaca9238b1d" />
+<img width="1803" height="843" alt="Screenshot 2026-05-16 160721" src="https://github.com/user-attachments/assets/d426b93f-b5d9-4262-9c01-77909b535ca6" />
+
+
